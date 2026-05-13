@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋 I'm Darshan Upadhye<br>🎓 TYBCA Student<br>📊 Passionate about Data Analytics<br>🏏 Built an end-to-end IPL Cricket Analytics Project<br>🐍 Python | 🗄️ MySQL | 📈 Power BI | 📋 Excel<br>🔍 I love turning raw data into meaningful insights<br>💼 Looking for opportunities in Data Analytics<br> Fun fact — I analyzed 260,920 IPL deliveries and found that 64% of captains prefer to field after winning the toss!
 
 
